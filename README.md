@@ -1,1 +1,1 @@
-# Solar-Image-Prediction-Using-GANs
+# Solar-Image-Prediction
