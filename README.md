@@ -1,1 +1,1 @@
-# Solar Image Generation using Generative Adversarial Networks
+# AIA0304 image Generation using GANs
